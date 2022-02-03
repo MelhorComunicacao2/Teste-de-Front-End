@@ -1,4 +1,4 @@
-# Teste de Front-End (ReactJS)
+# Teste de Front-End (Nextjs)
 
 ### Proposta
 
@@ -6,9 +6,16 @@ Uma empresa vai lançar um novo app para venda de celulares e com isso gostaría
 
 ### Requisitos
 
-1. O App deverá ser feito em ReactJs.
+1. O App deverá ser feito em Nextjs.
 2. Poderá ser utilizado qualquer biblioteca.
 3. Deverá ser entregue o link do respositório git com a resolução.
+
+### Requisitos Adicionais
+
+1. Styled Components.
+2. Axios.
+3. React-hook-form.
+4. Yup.
 
 ### Solução
 
